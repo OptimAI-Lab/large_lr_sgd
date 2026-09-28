@@ -1,4 +1,4 @@
-# Revisiting the Adam-SGD Gap in LLM Pre-Training: The Role of Large Effective Learning Rates
+# Revisiting the Adam-SGD Gap in LLM Pre-Training: The Role of Large Effective Learning Rates (NeurIPS 2026)
 
 <a href="https://arxiv.org/abs/2605.17787">
   <img src="https://img.shields.io/static/v1?label=arXiv&message=2605.17787&color=b31b1b" />
